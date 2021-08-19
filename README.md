@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Zahid
 - 🌱 M.Sc.Computer Science (class of 2022)
-- 💻 Tech Enthusiast, Web Developer
+- 💻 Tech Enthusiast, Front End Developer
 
 
 <!---
