@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Muhammed Zahid
-- 🌱 M.Sc.Computer Science (class of 2022)
-- 💻 Front End Developer : ReactJS, NextJS ,React Native
+## 👋🏻  Hi, I'm Zahid.
+
+- 💻 Front End Developer : ReactJS, NextJS, React Native
+- 🎓 Master's in Computer Science at [Bharathiar University](https://b-u.ac.in/), Tamil Nadu, India
+- 🎓 Bachelor's in Computer Applications at [Calicut University](https://uoc.ac.in/), Kerala, India
 
 
 <!---
