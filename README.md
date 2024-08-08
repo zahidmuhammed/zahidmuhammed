@@ -1,6 +1,6 @@
 ## 👋🏻  Hi, I'm Zahid.
 
-- 💻 Front End Developer : ReactJS, NextJS, React Native
+- 💻 Software Developer : Javascript, TypeScript, ReactJS, NextJS, NodeJS, React Native
 - 🎓 Master's in Computer Science at [Bharathiar University](https://b-u.ac.in/), Tamil Nadu, India
 - 🎓 Bachelor's in Computer Applications at [Calicut University](https://uoc.ac.in/), Kerala, India
 
